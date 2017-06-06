@@ -10,7 +10,7 @@ Deze app kan handig zijn voor mensen die het lastig vinden om schoolwerk te plan
 
 ### A visual sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out separately.
 
-![](doc/image.JPG)
+![](docs/image.JPG)
 
 ### What data sets and data sources will you need, how you will get the data into the right form for your app?
 Ik ga de GoogleCalendar API gebruiken, en als het niet teveel is ook de Giphy API. Hoe ik de data er goed in krijg, zal ik hier uit halen: 
