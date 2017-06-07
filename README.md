@@ -1,4 +1,4 @@
-## project proposal
+## Project proposal
 
 ### What problem will be solved for the user?
 Deze app kan handig zijn voor mensen die het lastig vinden om schoolwerk te plannen: wat moet ik allemaal doen, hoeveel tijd ben ik er ongeveer aan kwijt en hoe zou ik dit dan moeten verdelen over mijn dagen waarbij ik rekening houd met wat ik al op de planning heb staan.
