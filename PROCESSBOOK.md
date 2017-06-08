@@ -36,3 +36,11 @@ Maaaar voor Firebase gebruik je ook gewoon je google-account. Dus misschien kan 
 _IMPORTANT DECISIONS_
 * Deze week richten op het ophalen van informatie van de Google Calendar.
 * Richten op het weergeven van de calendar en het maken van de ToDo list, de rest komt later. 
+
+# day 3
+Niet zoveel kunnen doen vandaag omdat ik mijn eigen laptop nog niet terug had en de leenlaptop supervaak bleef vastzitten met AndroidStudio. 
+Nog niet helemaal uitgekomen met GoogleCalendar mede omdat ik dit nog niet kon uittesten. 
+Maar wel een simpel layout idee gevonden: CalendarView waarbij de user een ListView te zien krijgt als er op een datum wordt geklikt. 
+
+_IMPORTANT DECISIONS_
+* Morgen voornamelijk aandacht besteden aan de link van het klikken op een dag naar het zien van een popup scherm waarin staat wat er op die dag allemaal moet gebeuren (vind die andere weeklayout nog steeds mooier maar dit lijkt lastiger te zijn, kan dit later misschien nog even aanpassen met een GridView o.i.d. maar nu even niet zoveel aandacht aan besteden). 
