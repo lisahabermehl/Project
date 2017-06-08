@@ -42,5 +42,7 @@ Niet zoveel kunnen doen vandaag omdat ik mijn eigen laptop nog niet terug had en
 Nog niet helemaal uitgekomen met GoogleCalendar mede omdat ik dit nog niet kon uittesten. 
 Maar wel een simpel layout idee gevonden: CalendarView waarbij de user een ListView te zien krijgt als er op een datum wordt geklikt. 
 
+Vanmiddag kon ik mijn eigen laptop weer ophalen (yay), maar het linken van GitHub, de files van de app op mijn computer enzo ging niet zo goed. Dus heb toen geprobeerd om alles te verwijderen en helemaal opnieuw te beginnen onder dezelfde naam, maar toen zei die dat de naam al bestond op GitHub. Dus toen uiteindelijk maar een hele nieuwe repository aangemaakt met een nieuwe naam: [Calendar](https://github.com/lisahabermehl/Calendar)
+
 _IMPORTANT DECISIONS_
 * Morgen voornamelijk aandacht besteden aan de link van het klikken op een dag naar het zien van een popup scherm waarin staat wat er op die dag allemaal moet gebeuren (vind die andere weeklayout nog steeds mooier maar dit lijkt lastiger te zijn, kan dit later misschien nog even aanpassen met een GridView o.i.d. maar nu even niet zoveel aandacht aan besteden). 
