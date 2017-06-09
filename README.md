@@ -3,16 +3,16 @@
 
 ### Goal
 Deze app kan handig zijn voor mensen die het lastig vinden om schoolwerk te plannen: wat moet ik allemaal doen, hoeveel tijd ben ik er ongeveer aan kwijt en hoe zou ik dit dan moeten verdelen over mijn dagen waarbij ik rekening houd met wat ik al op de planning heb staan. Om de user hierin te helpen worden de volgende tools aangeboden:
-* De app wordt gekoppeld aan een Google Calendar. Hierdoor is het makkelijker voor de user om alle dagelijkse bezigheden op één plek aan te passen. De app zal dan ook alleen de dagelijkse activiteiten kunnen lezen, er kunnen geen extra dingen worden toegevoegd. 
+* De app wordt gekoppeld aan een Google Calendar. Het is niet mogelijk om activiteiten uit de Google Calendar aan te passen binnen de app, de app is enkel om een overzicht te bieden van wat er al op de planning staat en wat er nog gepland moet worden. 
 * Een extra feature van deze app is de To do list. Deze lijst bestaat uit hoofditems (vakken bijvoorbeeld) en daaronder subitems (de verschillende dingen die zouden moeten gebeuren - het lezen van een hoofdstuk, het lezen van een artikel, schrijven van een essay).
-* In het hoofdmenu kan de user instellen hoeveel tijd hij/zij kwijt is of kwijt wilt zijn aan het lezen van een artikel of het schrijven van een essay. Bij het invoeren van de subitems kan de user aangeven waar het om gaat (een artikel, een essay) of kan de user iets nieuws toevoegen.
+* Bij de settings kan de user instellen hoeveel tijd hij/zij kwijt is of kwijt wilt zijn aan het lezen van een artikel of het schrijven van een essay. Bij het invoeren van de subitems in de Todo list kan de user aangeven waar het om gaat (een artikel, een essay) of kan de user een nieuwe time estimation toevoegen.
 
 ### Visual sketch
 
 ![](docs/image.JPG)
 
 ### How does it work?
-Allereerst een inlogscherm waar de user kan inloggen met zijn/haar Google account.
+Allereerst een inlogscherm waar de user kan inloggen met Firebase.
 Na het inloggen komt er een main screen, waar het volgende op staat:
 ##### My calendar
 * Een overzicht van Google Calendar + items uit de list
@@ -32,7 +32,7 @@ Ik ga de GoogleCalendar API gebruiken, en als het niet teveel is ook de Giphy AP
 Ik ben van plan om een Google Calendar API te gebruiken, maar moet nog even uitzoeken of dit wel zo makkelijk is: of mensen makkelijk kunnen inloggen in hun Google Calendar in de app. En een Giphy API.
 
 ### Things to keep in mind
-Waar ik op zou moeten letten is dat ik het mij niet te moeilijk maak met al deze verschillende dingen. Want het zijn wel twee verschillende API’s die ik ga gebruiken, ik weet nog niet zo goed of dit teveel kan zijn en kan leiden tot het crashen van de applicatie. In dat geval zou ik de SOG tab weglaten en hier iets anders voor moeten verzinnen.
+Waar ik op zou moeten letten is dat ik het mij niet te moeilijk maak met al deze verschillende dingen. Want het zijn wel twee verschillende API’s die ik ga gebruiken, ik weet nog niet zo goed of dit teveel kan zijn en het onnodig ingewikkeld kan maken voor deze vier weken. In dat geval zou ik de SOG tab weglaten en hier eventueel iets simpelers voor verzinnen.
 Verder denk ik niet dat er veel problemen kunnen zijn. Maar als er iets niet lijkt te werken of als er teveel tijd in gestoken moet worden, dan denk ik dat het handig is om er dan voor te kiezen om een stapje terug te gaan en een simpele vervanging te zoeken.
 
 ### MVP and dreams
