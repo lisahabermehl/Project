@@ -48,12 +48,12 @@ Vanmiddag kon ik mijn eigen laptop weer ophalen (yay), maar het linken van GitHu
 * Morgen voornamelijk aandacht besteden aan de link van het klikken op een dag naar het zien van een popup scherm waarin staat wat er op die dag allemaal moet gebeuren (vind die andere weeklayout nog steeds mooier maar dit lijkt lastiger te zijn, kan dit later misschien nog even aanpassen met een GridView o.i.d. maar nu even niet zoveel aandacht aan besteden). 
 
 # day 4
-#### TODO
+### TODO
 * alle nodige activities maken ✓
 * GoogleCalendar API werkende krijgen (as in: resultaten terug krijgen) ✓
 ###  
 * alle nodige activities gemaakt om door de app heen te gaan (komen er vast nog meer bij, zoals Helpers e.d.)
 * bij het linken van de GoogleCalendar API kreeg ik een error: "execution failed for task':app:prepareDebugAndroidTestDependencies'"
 **opgelost** door - androidTestCompile 'com.android.support:support-annotations:25.3.1' - toe te voegen in de gradle (app module) om zo te forcen dat de laatste versie van libraries worden gebruikt
-#### Important decisions
+### Important decisions
 * dingen zoals Buttons e.d. worden niet in het java bestand geplaatst maar in het xml bestand (ziet er wat netter uit)
