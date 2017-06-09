@@ -1,8 +1,12 @@
 # Design Document
 Hier wordt er specifiek ingegaan op hoe de technische delen van de app samenhangen. 
 
-## MainActivity.java
-Dit zal waarschijnlijk gewoon het inlogscherm zijn. Hier wordt FireBase voor gebruikt, kan dit voor een groot deel overnemen van [Problem set 6](https://github.com/lisahabermehl/lisahabermehl-pset6).
+## LoginActivity.java
+Hier wordt FireBase voor gebruikt, kan dit voor een groot deel overnemen van [Problem set 6](https://github.com/lisahabermehl/lisahabermehl-pset6). Andere activities die hierbij komen, maar gelinkt zijn:
+* SignUpActivity.java
+* ResetPasswordActivity.java
+
+![](docs/image2.png)
 
 ## MyCalendar.java
 Hoe dit er precies uit komt te zien ben ik dus nog niet helemaal uit. 
