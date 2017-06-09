@@ -1,3 +1,4 @@
+# IMPORTANT: Dit is de oude versie, de nieuwe versie staat hier: [Calendar](https://github.com/lisahabermehl/Calendar)
 ## Project proposal
 
 ### Goal
