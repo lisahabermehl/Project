@@ -56,5 +56,6 @@ Vanmiddag kon ik mijn eigen laptop weer ophalen (yay), maar het linken van GitHu
 * alle nodige activities gemaakt om door de app heen te gaan (komen er vast nog meer bij, zoals Helpers e.d.)
 * bij het linken van de GoogleCalendar API kreeg ik een error: "execution failed for task':app:prepareDebugAndroidTestDependencies'"
 **opgelost** door - androidTestCompile 'com.android.support:support-annotations:25.3.1' - toe te voegen in de gradle (app module) om zo te forcen dat de laatste versie van libraries worden gebruikt
+* in de voorbeeldcode van GoogleCalendar worden de resultaten in een List<> teruggestuurd, even kijken hoe dit verwerkt kan worden in de Calendar die ik nu heb
 ### Important decisions
 * dingen zoals Buttons e.d. worden niet in het java bestand geplaatst maar in het xml bestand (ziet er wat netter uit)
