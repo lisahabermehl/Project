@@ -4,8 +4,8 @@ An app that uses the NS API: sends a notification when train is delayed or calcu
 An app that gives an overview of all the different models that people use for instruction based on feedback.
 An app that uses the Google Calendar API: user is able to make a TODO list (what to do, how much time do you need to do this, when does this need to be done), using an algoritm the app integrates this TODO list in the existing Google Calendar of the user.
 
-_IMPORTANT DECISIONS_
-Chose to do the last one in the end. Because I think it’ll be the most handy. Wrote a [project proposal](https://github.com/lisahabermehl/Project/blob/master/README.md) for this.
+### Important decisions
+* Chose to do the last one in the end. Because I think it’ll be the most handy. Wrote a [project proposal](https://github.com/lisahabermehl/Project/blob/master/README.md) for this.
 
 # day 2
 Started the day with a standup. Everyone explained what they were planning on doing. Gave each other some tips.
@@ -33,7 +33,7 @@ http://www.androidhive.info/2014/02/android-login-with-google-plus-account-1/
 
 Maaaar voor Firebase gebruik je ook gewoon je google-account. Dus misschien kan het wel gewooon.
 
-_IMPORTANT DECISIONS_
+### Important decisions
 * Deze week richten op het ophalen van informatie van de Google Calendar.
 * Richten op het weergeven van de calendar en het maken van de ToDo list, de rest komt later. 
 
@@ -44,7 +44,7 @@ Maar wel een simpel layout idee gevonden: CalendarView waarbij de user een ListV
 
 Vanmiddag kon ik mijn eigen laptop weer ophalen (yay), maar het linken van GitHub, de files van de app op mijn computer enzo ging niet zo goed. Dus heb toen geprobeerd om alles te verwijderen en helemaal opnieuw te beginnen onder dezelfde naam, maar toen zei die dat de naam al bestond op GitHub. Dus toen uiteindelijk maar een hele nieuwe repository aangemaakt met een nieuwe naam: [Calendar](https://github.com/lisahabermehl/Calendar)
 
-_IMPORTANT DECISIONS_
+### Important decisions
 * Morgen voornamelijk aandacht besteden aan de link van het klikken op een dag naar het zien van een popup scherm waarin staat wat er op die dag allemaal moet gebeuren (vind die andere weeklayout nog steeds mooier maar dit lijkt lastiger te zijn, kan dit later misschien nog even aanpassen met een GridView o.i.d. maar nu even niet zoveel aandacht aan besteden). 
 
 # day 4
