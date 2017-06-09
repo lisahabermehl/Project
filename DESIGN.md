@@ -33,3 +33,6 @@ ListView
 
 ### to_do.xml
 TextView die in de bovenstaande ListView komt te staan
+
+## Settings.java
+Nog niet helemaal uit hoe dit eruit komt te zien. User kan hier in ieder geval instellen hoe lang hij/zij over het lezen van een artikel doet. Deze gegevens worden meegenomen in het plannen van wanneer de user dit zou kunnen doen. 
