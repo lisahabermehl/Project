@@ -51,7 +51,7 @@ _IMPORTANT DECISIONS_
 #### TODO
 * alle nodige activities maken
 * GoogleCalendar API werkende krijgen
-####  
+###  
 * alle nodige activities gemaakt om door de app heen te gaan (komen er vast nog meer bij, zoals Helpers e.d.)
 * bij het linken van de GoogleCalendar API kreeg ik een error: "execution failed for task':app:prepareDebugAndroidTestDependencies'"
 **opgelost** door - androidTestCompile 'com.android.support:support-annotations:25.3.1' - toe te voegen in de gradle (app module) om zo te forcen dat de laatste versie van libraries worden gebruikt
