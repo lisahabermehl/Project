@@ -9,8 +9,11 @@ Hier wordt FireBase voor gebruikt, kan dit voor een groot deel overnemen van [Pr
 ![](docs/image2.png)
 
 ## MyCalendar.java
-Hoe dit er precies uit komt te zien ben ik dus nog niet helemaal uit. 
-Ik ga morgen weer verder met uitzoeken hoe de Google Calendar API hier gebruikt kan worden. 
+Onderdeel van deze activity worden delen van de [code die Google online heeft staan](https://developers.google.com/google-apps/calendar/quickstart/android) voor het gebruik van de Google Calendar API. 
+* initialize Google credentials
+* check for preconditions: device has online access, an account is selected (via Google Play?)
+* request data (AsyncTask) --> List<String>
+* show this information, only when user clicks on a certain date
 
 ### my_calendar.xml
 Hier wordt de [CalendarView](http://abhiandroid.com/ui/calendarview) voor gebruikt, waarbij de user een popup met de TODO's van die dag te zien krijgt bij het klikken op de desbetreffende dag.
