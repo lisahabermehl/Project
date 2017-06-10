@@ -61,3 +61,11 @@ Vanmiddag kon ik mijn eigen laptop weer ophalen (yay), maar het linken van GitHu
 * If you're Todo's are nicely implemented into your Calendar, but then you plan a spontaneous dinner on Saturday which will adjust the whole what Todo and when, but will also result in not finishing something of your Todo list before the deadline you've set: problem or..? Also, if you implement a Todo with a deadline, but there is no way that this Todo will be done in time, do you: ask the user for a new deadline, give suggestions on what activities should be cancelled in order to finish in time, or..?
 ### Important decisions
 * Buttons and such won't be made in .java but in .xml
+
+# day 5
+### TODO
+* make sure that you can see a specific GoogleCalendar day by clicking on a day in the CalendarView
+
+### Process
+* just read something about using a library wrapper instead of making my own http requests to Google
+* also something about CalendarProvider, since I don't want to spend a lot of time on making this calendar work but more time on having an algoritm that makes sense, I am going to look into these things, to find out if this will make it any easier
